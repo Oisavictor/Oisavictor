@@ -1,6 +1,6 @@
-# Creativity is an attitude, so let's build codes that speak for themselves.
+## Creativity is an attitude, so let's build codes that speak for themselves.
 
-<img src="https://user-images.githubusercontent.com/19577206/166230755-3f856330-6af0-4ee3-83af-32d74ad20dea.jpg" width="1108" height="342" />
+<img src="https://user-images.githubusercontent.com/19577206/166230755-3f856330-6af0-4ee3-83af-32d74ad20dea.jpg" width="1108" height="400" />
 
 ### Hi there 👋
 - 🔭 I’m currently working on an open project
