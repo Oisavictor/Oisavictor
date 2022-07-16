@@ -1,6 +1,6 @@
 ### Hi there, I am Oisavictor 👋 
 
-### Creativity is an attitude, it is a life style and it is beautiful like the flower below. So let's build codes that speaks. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30">
+### Creativity is an attitude, a lifestyle, and it's beautiful - like the flower below. So let's create codes that speaks. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30">
 
 
 <img src="https://user-images.githubusercontent.com/19577206/166230755-3f856330-6af0-4ee3-83af-32d74ad20dea.jpg" width="1108" height="420" />
